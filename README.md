@@ -4,6 +4,12 @@
 
 **Web-Maker** is an offline playground for your web experiments. Something like CodePen or JSFiddle, but much more faster and works offline because it runs completely on your system.
 
+## DevOps
+
+- VS Code
+- nvm for windows
+- node v20.10.0
+
 ## [Open Web App](https://webmaker.app/create/) (Recommended: More features. More fun!)
 
 or
